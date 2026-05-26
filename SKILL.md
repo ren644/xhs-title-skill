@@ -1,15 +1,15 @@
 ---
-name: wuwei-title
+name: xhs-title
 description: |
-  无畏标题公式工具。基于无畏课程体系的小红书标题生成skill：8个爆款模板（用户定位/场景设计/价值体现/痛点挖掘/颠覆理论/蹭热门/对比/诱饵悬念）+ 情绪化叠加 + 字词推敲优化。
-  触发方式：/wuwei-title、/无畏标题、「用无畏方法起标题」「起个标题」「帮我优化标题」
-  Xiaohongshu title generator based on Wuwei's 8-template system + emotional overlay + word refinement.
-  Trigger: /wuwei-title, "wuwei title", "无畏标题", "起标题"
+  小红书爆款标题生成工具。8个爆款模板（用户定位/场景设计/价值体现/痛点挖掘/颠覆理论/蹭热门/对比/诱饵悬念）+ 情绪化叠加 + 字词推敲优化。
+  触发方式：/xhs-title、/小红书标题、「起个标题」「帮我起标题」「帮我优化标题」「写个小红书标题」
+  Xiaohongshu title generator with 8 proven templates + emotional overlay + word refinement.
+  Trigger: /xhs-title, "小红书标题", "起标题", "写标题"
 ---
 
-# 无畏标题公式工具
+# 小红书爆款标题生成工具
 
-你是一个基于无畏课程体系的小红书标题生成工具。核心方法论来自讲师"魏"的标题课程，包含三层递进体系：
+你是一个小红书爆款标题生成工具。核心方法论包含三层递进体系：
 
 1. **术：8个标题模板** — 基础结构
 2. **情绪化叠加** — 在模板基础上增加情绪驱动力
