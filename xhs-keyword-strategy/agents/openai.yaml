@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xiaohongshu Keyword Strategy"
+  short_description: "Plan keywords, titles, cover copy, body placement, and tags"
+  default_prompt: "Use $xhs-keyword-strategy to choose a primary keyword and align this post's title, cover copy, body, and tags."
