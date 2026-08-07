@@ -1,0 +1,4 @@
+interface:
+  display_name: "小红书爆款标题助手"
+  short_description: "从正文提炼真实、有点击欲望、能够兑现的小红书标题候选"
+  default_prompt: "使用 $xhs-title-skill 为这篇小红书笔记生成 10 个高点击标题，并选出点击首选和一组 A/B 备选。"
